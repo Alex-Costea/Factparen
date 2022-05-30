@@ -1,4 +1,4 @@
-A factparen converter
+# Factparen
 
 Change the literal in "isItPrime = genPrimes 100000" to change the upper limit on prime numbers it recognizes
 
